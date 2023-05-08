@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Repositories/SheWarrior_UE5Game/SheWarrior/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/Repositories/SheWarrior_UE5Game/SheWarrior/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Repositories/SheWarrior_UE5Game/SheWarrior/Content/Maps/SheWarriorOpenWorld_HLODLayer_Instanced.uasset",
+				"D:/Repositories/SheWarrior_UE5Game/SheWarrior/Content/Maps/SheWarriorOpenWorld_HLODLayer_Merged.uasset",
+				"D:/Repositories/SheWarrior_UE5Game/SheWarrior/Content/__ExternalActors__/Maps/SheWarriorOpenWorld/C/02/LOE6B3SKDHPDKXZLF75RLI.uasset",
+				"D:/Repositories/SheWarrior_UE5Game/SheWarrior/Content/__ExternalActors__/Maps/SheWarriorOpenWorld/0/DM/XUWD4DI4XI5JJJ4D5RR68K.uasset",
+				"D:/Repositories/SheWarrior_UE5Game/SheWarrior/Content/Maps/SheWarriorOpenWorld.umap"
 			]
 		}
 	]
