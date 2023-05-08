@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Project files for the editor to use
+Build
+Content
+**/BlackAlder
+**/Landscape
+**/MedievalDungeon
+**/Megascans
+**/StarterContent
+**/Assets
