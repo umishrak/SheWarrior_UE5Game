@@ -1,0 +1,6 @@
+2023/05/21-12:07:15.054 2b74 Creating DB D:/Repositories/SheWarrior_UE5Game/SheWarrior/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/05/21-12:07:15.912 2b74 Reusing MANIFEST D:/Repositories/SheWarrior_UE5Game/SheWarrior/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/21-12:08:15.667 b58 Level-0 table #5: started
+2023/05/21-12:08:15.728 b58 Level-0 table #5: 1167 bytes OK
+2023/05/21-12:08:15.761 b58 Delete type=0 #3
+2023/05/21-12:08:15.761 b58 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

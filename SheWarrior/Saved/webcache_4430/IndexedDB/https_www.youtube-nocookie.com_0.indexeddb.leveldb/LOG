@@ -1,0 +1,8 @@
+2023/05/21-12:08:17.917 45f4 Reusing MANIFEST D:/Repositories/SheWarrior_UE5Game/SheWarrior/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/21-12:08:17.917 45f4 Recovering log #4
+2023/05/21-12:08:17.917 45f4 Reusing old log D:/Repositories/SheWarrior_UE5Game/SheWarrior/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2023/05/21-12:32:45.435 2150 Level-0 table #8: started
+2023/05/21-12:32:45.435 2150 Level-0 table #8: 0 bytes OK
+2023/05/21-12:32:45.477 2150 Delete type=0 #4
+2023/05/21-12:32:45.477 2150 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/05/21-12:32:45.477 2150 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
