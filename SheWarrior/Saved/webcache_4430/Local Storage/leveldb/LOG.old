@@ -1,2 +1,3 @@
-2023/05/21-12:06:06.369 3450 Creating DB D:/Repositories/SheWarrior_UE5Game/SheWarrior/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/05/21-12:06:06.471 3450 Reusing MANIFEST D:/Repositories/SheWarrior_UE5Game/SheWarrior/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/05/21-14:08:22.202 b14 Reusing MANIFEST D:/Repositories/SheWarrior_UE5Game/SheWarrior/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/05/21-14:08:22.202 b14 Recovering log #3
+2023/05/21-14:08:22.203 b14 Reusing old log D:/Repositories/SheWarrior_UE5Game/SheWarrior/Saved/webcache_4430\Local Storage\leveldb/000003.log 
