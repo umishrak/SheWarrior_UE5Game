@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SheWarrior",
+			"Path": "D:\\Repositories\\SheWarrior_UE5Game\\SheWarrior\\Source\\SheWarrior.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SheWarriorEditor",
+			"Path": "D:\\Repositories\\SheWarrior_UE5Game\\SheWarrior\\Source\\SheWarriorEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
