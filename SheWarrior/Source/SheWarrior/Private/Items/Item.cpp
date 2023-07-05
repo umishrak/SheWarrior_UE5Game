@@ -2,6 +2,11 @@
 
 
 #include "Items/Item.h"
+#include "DrawDebugHelpers.h"
+#include "SheWarrior/SheWarrior.h"
+
+// Creating Function Macro
+#define THIRTY 30
 
 // Sets default values
 AItem::AItem()
@@ -23,7 +28,14 @@ void AItem::BeginPlay()
 	{
 		GEngine->AddOnScreenDebugMessage(1, 60.f, FColor::Magenta, FString("Item OnScreen Message!"));
 	}
-	
+
+	UWorld* World = GetWorld();
+
+	FVector Location = GetActorLocation();
+
+	// Using defined Macro
+	DRAW_SPHERE(Location)
+
 }
 
 // Called every frame
