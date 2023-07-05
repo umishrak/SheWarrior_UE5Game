@@ -17,6 +17,12 @@ void AItem::BeginPlay()
 	Super::BeginPlay();
 
 	UE_LOG(LogTemp, Warning, TEXT("Begin Play called!"));
+
+	// Creates on screen Debug message (Blueprints' F String Function)
+	if (GEngine)
+	{
+		GEngine->AddOnScreenDebugMessage(1, 60.f, FColor::Magenta, FString("Item OnScreen Message!"));
+	}
 	
 }
 
