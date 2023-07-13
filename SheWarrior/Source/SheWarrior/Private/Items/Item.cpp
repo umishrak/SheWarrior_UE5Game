@@ -2,11 +2,8 @@
 
 
 #include "Items/Item.h"
-#include "DrawDebugHelpers.h"
-#include "SheWarrior/SheWarrior.h"
+#include "SheWarrior/DebugMacros.h"
 
-// Creating Function Macro
-#define THIRTY 30
 
 // Sets default values
 AItem::AItem()

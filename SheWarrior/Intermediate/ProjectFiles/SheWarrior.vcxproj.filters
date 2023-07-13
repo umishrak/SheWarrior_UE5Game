@@ -69,4 +69,9 @@
       <Filter>Source\SheWarrior\Public\Items</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\SheWarrior\DebugMacros.h">
+      <Filter>Source\SheWarrior</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
