@@ -20,14 +20,13 @@ protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
-private:
-	UPROPERTY(VisibleAnywhere)
-	float RunningTime;
-
-	UPROPERTY(EditAnywhere)
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Sin Parameters")
 	float Amplitude = 0.25f;
 
-	UPROPERTY(EditAnywhere)
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Sin Parameters")
 	float TimeConstant = 5.f;
 
+private:
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, meta = (AllowPrivateAccess = "true"))
+	float RunningTime;
 };
