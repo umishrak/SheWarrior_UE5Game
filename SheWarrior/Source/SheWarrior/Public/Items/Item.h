@@ -22,7 +22,11 @@ protected:
 
 private:
 	float RunningTime;
+
+	UPROPERTY(EditAnywhere)
 	float Amplitude = 0.25f;
+
+	UPROPERTY(EditAnywhere)
 	float TimeConstant = 5.f;
 
 };
