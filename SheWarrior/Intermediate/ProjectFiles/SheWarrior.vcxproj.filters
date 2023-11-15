@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <None Include="..\..\SheWarrior.uproject" />
@@ -11,6 +11,7 @@
     <None Include="..\..\Source\SheWarriorEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -26,21 +27,12 @@
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
-    <Filter Include="Platforms">
-      <UniqueIdentifier>{ED49A36C-4FD5-37E5-A2AC-E11BEF4F21CF}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Platforms\HoloLens">
-      <UniqueIdentifier>{28125F47-4973-377C-9D77-EBC3C72EC856}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Platforms\HoloLens\Config">
-      <UniqueIdentifier>{D3BF39CB-FA64-39E2-A327-B5021BA69773}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Platforms\HoloLens\Config\HoloLensEngine.ini">
-      <Filter>Platforms\HoloLens\Config</Filter>
-    </None>
     <Filter Include="Source\SheWarrior">
       <UniqueIdentifier>{81E33D01-663A-39FA-98E8-A2D73AC5BCBA}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\SheWarrior\DebugMacros.h">
+      <Filter>Source\SheWarrior</Filter>
+    </ClInclude>
     <None Include="..\..\Source\SheWarrior\SheWarrior.Build.cs">
       <Filter>Source\SheWarrior</Filter>
     </None>
@@ -67,11 +59,6 @@
     </Filter>
     <ClInclude Include="..\..\Source\SheWarrior\Public\Items\Item.h">
       <Filter>Source\SheWarrior\Public\Items</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\SheWarrior\DebugMacros.h">
-      <Filter>Source\SheWarrior</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
